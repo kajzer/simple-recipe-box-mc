@@ -9,4 +9,5 @@ bootstrap-sass
 paperclip  
 cocoon  
 jquery-rails  
+devise  
 
